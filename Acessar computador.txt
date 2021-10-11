@@ -1,0 +1,11 @@
+Inicio 
+-se o computador não estiver ligado;
+ -conectar o cabo do computador na tomada;
+ -clicar no botão de ligar da CPU;
+ -clicar no botão de ligar do monitor;
+ -sentar na cadeira à frente do computador;
+ -digitar a senha de acesso;
+-senão
+ -sentar na cadeira à frente do computador;
+ -digitar a senha de acesso;
+Fim

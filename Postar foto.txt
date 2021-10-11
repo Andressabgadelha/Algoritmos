@@ -1,0 +1,19 @@
+ Inicio
+-pegar o celular;
+-acessar a câmera;
+-tirar a foto;
+-acessar a rede social;
+-se a rede social estiver logada, então
+ -compartilhar a foto
+-senão
+ -digitar e-mail;
+ -se lembrar a senha
+  -digitar a senha;
+ -senão
+  -clicar recuperar a senha;
+  -acessar e-mail;
+  -clicar no e-mail de recuperação de senha;
+  -copiar o código de recuperação;
+  -alterar a senha;
+ -compartilhar a foto;
+ Fim

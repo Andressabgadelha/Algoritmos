@@ -1,0 +1,21 @@
+ Inicio
+-acionar o interruptor;
+-se a lâmpada não acender, então
+ -pegar uma escada;
+ -posicionar a escada embaixo da lâmpada;
+ -buscar uma lâmpada nova;
+ -acionar o interruptor;
+ -subir na escada;
+ -retirar a lâmpada queimada
+ -colocar uma lâmpada nova;
+ -descer da escada;
+ -acionar o interruptor;
+ -enquanto a lâmpada não acender, faça:
+  -buscar uma lâmpada nova;
+  -acionar o interruptor;
+  -subir na escada;
+  -retirar a lâmpada queimada
+  -colocar uma lâmpada nova;
+  -descer da escada;
+  -acionar o interruptor;
+  fim

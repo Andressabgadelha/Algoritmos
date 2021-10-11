@@ -1,0 +1,24 @@
+Inicio
+-Pegar o copo; 
+-Se ele estiver limpo, então;
+  -Guardar no armário;
+-Senão
+ -Colocar o copo na pia;
+ -pegar a esponja;
+ -pegar o detergente;
+ -abrir o detergente;
+ -aplicar um pouco de detergente na esponja;
+ -fechar o detergente;
+ -colocar o detergente de volta na pia;
+ -abrir a torneira;
+ -colocar a esponja em baixo da torneira;
+ -molhar um pouco a esponja;
+ -desligar a torneira;
+ -Pegar o copo;
+ -Passar a esponja no copo;
+ -Guardar a esponja;
+ -Abrir a torneira;
+ -Molhar o copo;
+ -Fechar a torneira;
+ -Colocar o copo no escorredor;
+Fim

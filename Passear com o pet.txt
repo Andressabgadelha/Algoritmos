@@ -1,0 +1,30 @@
+Inicio
+-verificar se está chovendo;
+-se não estiver chovendo
+ -pegar coleira;
+ -pegar o pet;
+ -colocar a coleira no pet;
+ -pegar os saquinhos higiênicos;
+ -colocar a chave na fechadura do portão;
+ -girar a chave;
+ -tirar a chave da fechadura;
+ -abrir o portão;
+ -sair com o pet para o lado de fora da casa
+ -fechar o portão;
+ -colocar a chave na fechadura do portão;
+ -girar a chave;
+ -tirar a chave da fechadura;
+ -passear com o pet
+ -voltar para casa;
+ -colocar a chave na fechadura do portão;
+ -girar a chave;
+ -tirar a chave da fechadura;
+ -abrir o portão;
+ -entrar em casa com o pet;
+ -fechar o portão;
+ -colocar a chave na fechadura do portão;
+ -girar a chave;
+ -tirar a chave da fechadura;
+Senão
+-ficar em casa;
+fim
